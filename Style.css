@@ -1,0 +1,31 @@
+h1{
+    color: blueviolet
+}
+*{
+    color: black;
+}
+
+.header{
+    background-color:aquamarine;
+    display: flex;
+    justify-content: space-between;
+}
+.subtitle{
+    background-color:rgb(68, 233, 18);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.menu{
+    background-color:rgb(202, 38, 161);
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.footer{
+    background-color:red;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
